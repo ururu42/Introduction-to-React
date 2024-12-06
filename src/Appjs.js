@@ -1,3 +1,4 @@
+// для коммита к домашке
 import logo from "./logo.svg"; // декларативный стиль
 import "./App.css"; // декларативный стиль
 import { createElement } from "react";
